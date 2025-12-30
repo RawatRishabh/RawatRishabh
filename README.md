@@ -13,13 +13,6 @@
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RawatRishabh&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawatRishabh&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&langs_count=8&hide_border=true&border_radius=10" alt="Top Languages" />
-</div>
-
 <br>
 
 ## 💡 Fun Fact
